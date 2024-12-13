@@ -1,4 +1,4 @@
-# ChapterCraft
+# ChapterCraft 📚☕
 
 # Project Description
 ChapterCraft is an interactive application developed in Streamlit that provides analysis and visualizations based on book data. This project combines the power of machine learning and data visualizations to deliver unique insights about books, genres, and authors. It also features a personalized recommendation system and automatic predictions of book genres based on their descriptions.
