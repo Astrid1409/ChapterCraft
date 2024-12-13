@@ -23,11 +23,11 @@ WordCloud: Word cloud generation.
 
 # Project Structure
 
-data/: Contains CSV data files ('df_books.csv' , 'model.csv' and 'libros_limpios').
+Data: Contains CSV data files ('df_books.csv' , 'model.csv' and 'libros_limpios').
 
-images/: Folder for images used in the applications.
+Images: Folder for images used in the applications.
 
-app.py: Chapter_Craft.py
+App.py: Chapter_Craft.py
 
 
 
