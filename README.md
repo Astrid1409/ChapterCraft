@@ -23,7 +23,7 @@ WordCloud: Word cloud generation.
 
 # Project Structure
 
-data/: Contains CSV data files ('df_books.csv' and 'model.csv').
+data/: Contains CSV data files ('df_books.csv' , 'model.csv' and 'libros_limpios').
 
 images/: Folder for images used in the applications.
 
